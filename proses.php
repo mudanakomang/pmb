@@ -1,9 +1,9 @@
 <?php
 
 $servername = "localhost";
-$database = "pmb_stkipsuar";
-$username = "root";
-$password = "";
+$database = "kuliahon_pmb";
+$username = "kuliahon_pmbroot";
+$password = "SN2j]e1ihAO]";
 
 $conn=mysqli_connect($servername,$username,$password,$database);
 if (!$conn){
