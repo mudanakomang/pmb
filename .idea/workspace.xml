@@ -1,13 +1,1814 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452a7137-af2d-4f54-b956-0b431e4f338b" name="Default" comment="" />
+    <list default="true" id="452a7137-af2d-4f54-b956-0b431e4f338b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/header2020.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/projek1rev3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/signin-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/signup-image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/css/material-design-iconic-font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/css/material-design-iconic-font.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/material-icon/fonts/Material-Design-Iconic-Font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-300italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-500italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-600.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-700italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-800italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-900.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/poppins-v5-latin-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-700italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/poppins/roboto-condensed-v16-latin-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/categories.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/icons.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/icons.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/shims.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/shims.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/metadata/sponsors.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proses.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/common/extend.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/common/fonts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/common/global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/common/minxi.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/common/variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layouts/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layouts/responsive.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sprites/brands.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sprites/regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sprites/solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/500px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/accessible-icon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/accusoft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/acquisitions-incorporated.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/adn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/adversal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/affiliatetheme.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/airbnb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/algolia.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/alipay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/amazon-pay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/amazon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/amilia.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/android.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/angellist.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/angrycreative.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/angular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/app-store-ios.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/app-store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/apper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/apple-pay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/apple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/artstation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/asymmetrik.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/atlassian.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/audible.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/autoprefixer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/avianex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/aviato.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/aws.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bandcamp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/battle-net.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/behance-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/behance.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bimobject.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bitbucket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bitcoin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bity.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/black-tie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/blackberry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/blogger-b.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/blogger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bluetooth-b.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bluetooth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/bootstrap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/btc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/buffer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/buromobelexperte.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/buy-n-large.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/buysellads.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/canadian-maple-leaf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-amazon-pay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-amex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-apple-pay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-diners-club.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-discover.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-jcb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-mastercard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-paypal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-stripe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cc-visa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/centercode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/centos.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/chrome.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/chromecast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cloudflare.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cloudscale.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cloudsmith.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cloudversify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/codepen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/codiepie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/confluence.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/connectdevelop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/contao.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cotton-bureau.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cpanel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-by.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-nc-eu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-nc-jp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-nc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-nd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-pd-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-pd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-remix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-sa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-sampling-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-sampling.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons-zero.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/creative-commons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/critical-role.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/css3-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/css3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/cuttlefish.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/d-and-d-beyond.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/d-and-d.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dailymotion.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dashcube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/deezer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/delicious.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/deploydog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/deskpro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/deviantart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dhl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/diaspora.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/digg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/digital-ocean.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/discord.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/discourse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dochub.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/docker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/draft2digital.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dribbble-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dribbble.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dropbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/drupal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/dyalog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/earlybirds.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ebay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/edge-legacy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/edge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/elementor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ember.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/empire.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/envira.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/erlang.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ethereum.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/etsy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/evernote.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/expeditedssl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/facebook-f.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/facebook-messenger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/facebook-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fantasy-flight-games.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fedex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fedora.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/figma.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/firefox-browser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/firefox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/first-order-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/first-order.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/firstdraft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/flickr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/flipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fly.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/font-awesome-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/font-awesome-flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/font-awesome-logo-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/font-awesome.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fonticons-fi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fonticons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fort-awesome-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fort-awesome.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/forumbee.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/foursquare.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/free-code-camp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/freebsd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/fulcrum.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/galactic-republic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/galactic-senate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/get-pocket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gg-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/git-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/git-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/git.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/github-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/github-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/github.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gitkraken.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gitlab.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/glide-g.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/glide.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gofore.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/goodreads-g.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/goodreads.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-drive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-pay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-plus-g.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-plus-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google-wallet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/google.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gratipay.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/grav.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gripfire.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/grunt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/guilded.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/gulp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hacker-news-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hacker-news.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hackerrank.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hips.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hire-a-helper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hooli.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hornbill.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hotjar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/houzz.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/html5.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/hubspot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ideal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/imdb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/innosoft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/instagram-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/instagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/instalod.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/intercom.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/internet-explorer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/invision.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ioxhost.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/itch-io.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/itunes-note.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/itunes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/java.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/jedi-order.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/jenkins.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/jira.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/joget.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/joomla.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/js-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/js.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/jsfiddle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/kaggle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/keybase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/keycdn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/kickstarter-k.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/kickstarter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/korvue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/laravel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/lastfm-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/lastfm.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/leanpub.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/less.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/line.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/linkedin-in.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/linkedin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/linode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/linux.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/lyft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/magento.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mailchimp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mandalorian.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/markdown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mastodon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/maxcdn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mdb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/medapps.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/medium-m.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/medium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/medrt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/meetup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/megaport.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mendeley.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/microblog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/microsoft.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mixcloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mixer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/mizuni.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/modx.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/monero.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/napster.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/neos.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/nimblr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/node-js.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/node.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/npm.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ns8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/nutritionix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/octopus-deploy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/odnoklassniki-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/odnoklassniki.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/old-republic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/opencart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/openid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/opera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/optin-monster.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/orcid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/osi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/page4.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pagelines.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/palfed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/patreon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/paypal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/penny-arcade.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/perbyte.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/periscope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/phabricator.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/phoenix-framework.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/phoenix-squadron.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/php.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pied-piper-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pied-piper-hat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pied-piper-pp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pied-piper-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pied-piper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pinterest-p.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pinterest-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pinterest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/playstation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/product-hunt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/pushed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/python.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/qq.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/quinscape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/quora.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/r-project.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/raspberry-pi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ravelry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/react.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/reacteurope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/readme.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/rebel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/red-river.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/reddit-alien.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/reddit-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/reddit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/redhat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/renren.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/replyd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/researchgate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/resolving.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/rev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/rocketchat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/rockrms.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/rust.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/safari.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/salesforce.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/schlix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/scribd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/searchengin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sellcast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sellsy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/servicestack.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/shirtsinbulk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/shopify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/shopware.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/simplybuilt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sistrix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sith.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sketch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/skyatlas.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/skype.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/slack-hash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/slack.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/slideshare.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/snapchat-ghost.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/snapchat-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/snapchat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/soundcloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sourcetree.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/speakap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/speaker-deck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/spotify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/squarespace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stack-exchange.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stack-overflow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stackpath.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/staylinked.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/steam-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/steam-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/steam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/sticker-mule.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/strava.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stripe-s.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stripe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/studiovinari.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stumbleupon-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/stumbleupon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/superpowers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/supple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/suse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/swift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/symfony.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/teamspeak.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/telegram-plane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/telegram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/tencent-weibo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/the-red-yeti.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/themeco.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/themeisle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/think-peaks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/tiktok.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/trade-federation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/trello.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/tripadvisor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/tumblr-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/tumblr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/twitch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/twitter-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/typo3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/uber.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ubuntu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/uikit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/umbraco.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/uncharted.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/uniregistry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/unity.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/unsplash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/untappd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ups.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/usb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/usps.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/ussunnah.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vaadin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/viacoin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/viadeo-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/viadeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/viber.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vimeo-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vimeo-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vimeo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vine.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vnv.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/vuejs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/watchman-monitoring.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/waze.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/weebly.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/weibo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/weixin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/whatsapp-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/whatsapp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/whmcs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wikipedia-w.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/windows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wix.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wizards-of-the-coast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wodu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wolf-pack-battalion.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wordpress-simple.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wordpress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wpbeginner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wpexplorer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wpforms.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/wpressr.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/xbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/xing-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/xing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/y-combinator.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yahoo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yammer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yandex-international.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yandex.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yarn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yelp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/yoast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/youtube-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/youtube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/brands/zhihu.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/address-book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/address-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/angry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/arrow-alt-circle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/arrow-alt-circle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/arrow-alt-circle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/arrow-alt-circle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/bell-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/bookmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/building.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/calendar-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/calendar-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/calendar-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/calendar-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/calendar-times.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/caret-square-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/caret-square-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/caret-square-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/caret-square-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/chart-bar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/check-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/check-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/clone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/closed-captioning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/comment-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/comment-dots.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/copy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/copyright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/dizzy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/dot-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/envelope-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/envelope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/eye-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-audio.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-excel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-pdf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-powerpoint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file-word.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/flushed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/folder-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/font-awesome-logo-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/frown-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/frown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/futbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/gem.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grimace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-beam-sweat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-hearts.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-squint-tears.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-squint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-stars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-tears.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-tongue-squint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-tongue-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-tongue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/grin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-lizard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-peace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-point-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-point-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-point-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-point-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-pointer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-rock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-scissors.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hand-spock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/handshake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hdd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hospital.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/hourglass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/id-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/id-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/images.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/keyboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/kiss-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/kiss-wink-heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/kiss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/laugh-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/laugh-squint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/laugh-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/laugh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/lemon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/life-ring.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/lightbulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/list-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/meh-blank.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/meh-rolling-eyes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/meh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/minus-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/money-bill-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/moon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/newspaper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/object-group.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/object-ungroup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/paper-plane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/pause-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/play-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/plus-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/question-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/registered.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/sad-cry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/sad-tear.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/save.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/share-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/smile-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/smile-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/smile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/snowflake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/star-half.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/sticky-note.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/stop-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/sun.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/surprise.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/thumbs-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/thumbs-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/times-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/tired.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/trash-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/user-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/window-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/window-maximize.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/window-minimize.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/regular/window-restore.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/address-book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/address-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/adjust.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/air-freshener.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/align-center.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/align-justify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/align-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/align-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/allergies.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ambulance.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/american-sign-language-interpreting.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/anchor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-double-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-double-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-double-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-double-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/angry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ankh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/apple-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/archway.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-alt-circle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-alt-circle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-alt-circle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-alt-circle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-circle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-circle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-circle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-circle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrow-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrows-alt-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrows-alt-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/arrows-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/assistive-listening-systems.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/asterisk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/at.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/atlas.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/atom.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/audio-description.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/award.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/baby-carriage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/baby.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/backspace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bacon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bacteria.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bacterium.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bahai.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/balance-scale-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/balance-scale-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/balance-scale.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ban.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/band-aid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/barcode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/baseball-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/basketball-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bath.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/battery-empty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/battery-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/battery-half.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/battery-quarter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/battery-three-quarters.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/beer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bell-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bezier-curve.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bible.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bicycle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/biking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/binoculars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/biohazard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/birthday-cake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/blender-phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/blender.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/blind.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/blog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bolt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bomb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bong.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/book-dead.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/book-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/book-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/book-reader.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/book.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bookmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/border-all.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/border-none.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/border-style.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bowling-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/box-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/box-tissue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/boxes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/braille.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/brain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bread-slice.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/briefcase-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/briefcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/broadcast-tower.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/broom.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/brush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/building.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bullhorn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bullseye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/burn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bus-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/bus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/business-time.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calculator.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-day.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-times.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar-week.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/calendar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/camera-retro.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/camera.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/campground.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/candy-cane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cannabis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/capsules.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/car-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/car-battery.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/car-crash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/car-side.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/car.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caravan.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-square-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-square-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-square-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-square-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/caret-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/carrot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cart-arrow-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cart-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cash-register.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/certificate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chalkboard-teacher.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chalkboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/charging-station.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chart-area.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chart-bar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chart-line.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chart-pie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/check-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/check-double.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/check-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cheese.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-bishop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-board.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-king.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-knight.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-pawn.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-queen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess-rook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chess.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-circle-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-circle-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-circle-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-circle-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/chevron-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/child.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/church.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/circle-notch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/city.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/clinic-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/clipboard-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/clipboard-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/clipboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/clone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/closed-captioning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-download-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-meatball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-moon-rain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-moon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-rain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-showers-heavy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-sun-rain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-sun.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud-upload-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cloud.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cocktail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/code-branch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/coffee.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cogs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/coins.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/columns.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comment-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comment-dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comment-dots.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comment-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comment-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comments-dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/comments.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/compact-disc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/compress-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/compress-arrows-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/compress.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/concierge-bell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cookie-bite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cookie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/copy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/copyright.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/couch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/credit-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/crop-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/crop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cross.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/crosshairs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/crow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/crown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/crutch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cubes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/cut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/database.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/deaf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/democrat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/desktop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dharmachakra.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/diagnoses.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-d20.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-d6.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-five.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-four.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-one.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-six.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-three.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice-two.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dice.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/digital-tachograph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/directions.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/disease.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/divide.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dizzy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dna.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dollar-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dolly-flatbed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dolly.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/donate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/door-closed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/door-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dot-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dove.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/drafting-compass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dragon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/draw-polygon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/drum-steelpan.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/drum.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/drumstick-bite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dumbbell.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dumpster-fire.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dumpster.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/dungeon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/egg.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/eject.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ellipsis-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ellipsis-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/envelope-open-text.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/envelope-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/envelope-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/envelope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/equals.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/eraser.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ethernet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/euro-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/exchange-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/exclamation-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/exclamation-triangle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/exclamation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/expand-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/expand-arrows-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/expand.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/external-link-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/external-link-square-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/eye-dropper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/eye-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/eye.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fan.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fast-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fast-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/faucet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fax.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/feather-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/feather.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/female.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fighter-jet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-archive.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-audio.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-contract.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-csv.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-download.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-excel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-export.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-import.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-invoice-dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-invoice.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-medical-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-pdf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-powerpoint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-prescription.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-signature.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file-word.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fill-drip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fill.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/film.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/filter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fingerprint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fire-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fire-extinguisher.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fire.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/first-aid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fish.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/fist-raised.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/flag-checkered.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/flag-usa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/flag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/flask.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/flushed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/folder-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/folder-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/folder-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/folder.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/font-awesome-logo-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/font.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/football-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/frog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/frown-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/frown.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/funnel-dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/futbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gamepad.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gas-pump.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gavel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gem.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/genderless.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ghost.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gift.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gifts.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/glass-cheers.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/glass-martini-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/glass-martini.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/glass-whiskey.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/glasses.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/globe-africa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/globe-americas.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/globe-asia.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/globe-europe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/globe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/golf-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/gopuram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/graduation-cap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/greater-than-equal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/greater-than.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grimace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-beam-sweat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-hearts.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-squint-tears.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-squint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-stars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-tears.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-tongue-squint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-tongue-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-tongue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grip-horizontal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grip-lines-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grip-lines.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/grip-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/guitar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/h-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hamburger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hammer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hamsa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-holding-heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-holding-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-holding-usd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-holding-water.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-holding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-lizard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-middle-finger.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-peace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-point-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-point-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-point-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-point-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-pointer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-rock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-scissors.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-sparkles.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hand-spock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hands-helping.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hands-wash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hands.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/handshake-alt-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/handshake-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/handshake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hanukiah.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hard-hat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hashtag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hat-cowboy-side.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hat-cowboy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hat-wizard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hdd.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/head-side-cough-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/head-side-cough.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/head-side-mask.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/head-side-virus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/heading.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/headphones-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/headphones.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/headset.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/heart-broken.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/heartbeat.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/helicopter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/highlighter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hiking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hippo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/history.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hockey-puck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/holly-berry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/home.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/horse-head.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/horse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hospital-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hospital-symbol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hospital-user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hospital.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hot-tub.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hotdog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hotel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hourglass-end.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hourglass-half.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hourglass-start.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hourglass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/house-damage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/house-user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/hryvnia.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/i-cursor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ice-cream.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/icicles.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/icons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/id-badge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/id-card-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/id-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/igloo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/image.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/images.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/inbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/indent.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/industry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/infinity.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/info-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/jedi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/joint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/journal-whills.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/kaaba.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/key.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/keyboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/khanda.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/kiss-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/kiss-wink-heart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/kiss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/kiwi-bird.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/landmark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/language.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laptop-code.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laptop-house.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laptop-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laptop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laugh-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laugh-squint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laugh-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/laugh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/layer-group.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/leaf.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lemon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/less-than-equal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/less-than.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/level-down-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/level-up-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/life-ring.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lightbulb.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/link.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lira-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/list-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/list-ol.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/list-ul.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/location-arrow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lock-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/long-arrow-alt-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/long-arrow-alt-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/long-arrow-alt-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/long-arrow-alt-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/low-vision.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/luggage-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lungs-virus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/lungs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/magic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/magnet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mail-bulk.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/male.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map-marked-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map-marked.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map-marker-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map-marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map-pin.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map-signs.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/map.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/marker.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mars-double.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mars-stroke-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mars-stroke-v.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mars-stroke.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mask.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/medal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/medkit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/meh-blank.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/meh-rolling-eyes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/meh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/memory.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/menorah.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mercury.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/meteor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/microchip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/microphone-alt-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/microphone-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/microphone-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/microphone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/microscope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/minus-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/minus-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mitten.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mobile-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mobile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/money-bill-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/money-bill-wave-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/money-bill-wave.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/money-bill.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/money-check-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/money-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/monument.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/moon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mortar-pestle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mosque.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/motorcycle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mountain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mouse-pointer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/mug-hot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/music.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/network-wired.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/neuter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/newspaper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/not-equal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/notes-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/object-group.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/object-ungroup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/oil-can.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/om.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/otter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/outdent.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pager.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paint-brush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paint-roller.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/palette.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pallet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paper-plane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paperclip.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/parachute-box.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paragraph.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/parking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/passport.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pastafarianism.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paste.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pause-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pause.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/paw.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/peace.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pen-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pen-fancy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pen-nib.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pen-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pen.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pencil-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pencil-ruler.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/people-arrows.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/people-carry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pepper-hot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/percent.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/percentage.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/person-booth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/phone-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/phone-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/phone-square-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/phone-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/phone-volume.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/phone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/photo-video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/piggy-bank.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pills.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pizza-slice.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/place-of-worship.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plane-arrival.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plane-departure.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plane-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plane.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/play-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/play.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plug.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plus-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plus-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/podcast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/poll-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/poll.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/poo-storm.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/poo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/poop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/portrait.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pound-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/power-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pray.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/praying-hands.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/prescription-bottle-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/prescription-bottle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/prescription.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/print.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/procedures.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/project-diagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pump-medical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/pump-soap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/puzzle-piece.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/qrcode.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/question-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/question.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/quidditch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/quote-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/quote-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/quran.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/radiation-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/radiation.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/rainbow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/random.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/receipt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/record-vinyl.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/recycle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/redo-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/redo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/registered.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/remove-format.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/reply-all.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/reply.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/republican.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/restroom.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/retweet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ribbon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ring.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/road.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/robot.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/rocket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/route.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/rss-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/rss.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ruble-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ruler-combined.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ruler-horizontal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ruler-vertical.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ruler.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/running.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/rupee-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sad-cry.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sad-tear.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/satellite-dish.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/satellite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/save.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/school.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/screwdriver.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/scroll.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sd-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/search-dollar.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/search-location.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/search-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/search-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/search.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/seedling.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/server.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shapes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/share-alt-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/share-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/share-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/share.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shekel-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shield-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shield-virus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ship.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shipping-fast.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shoe-prints.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shopping-bag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shopping-basket.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shopping-cart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shower.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/shuttle-van.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sign-in-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sign-language.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sign-out-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/signal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/signature.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sim-card.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sitemap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/skating.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/skiing-nordic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/skiing.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/skull-crossbones.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/skull.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sleigh.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sliders-h.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/smile-beam.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/smile-wink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/smile.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/smog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/smoking-ban.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/smoking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sms.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/snowboarding.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/snowflake.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/snowman.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/snowplow.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/soap.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/socks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/solar-panel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-alpha-down-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-alpha-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-alpha-up-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-alpha-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-amount-down-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-amount-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-amount-up-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-amount-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-numeric-down-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-numeric-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-numeric-up-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-numeric-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sort.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/spa.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/space-shuttle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/spell-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/spider.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/spinner.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/splotch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/spray-can.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/square-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/square-root-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stamp.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/star-and-crescent.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/star-half-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/star-half.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/star-of-david.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/star-of-life.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/step-backward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/step-forward.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stethoscope.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sticky-note.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stop-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stop.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stopwatch-20.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stopwatch.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/store-alt-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/store-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/store-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/store.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stream.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/street-view.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/strikethrough.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/stroopwafel.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/subscript.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/subway.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/suitcase-rolling.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/suitcase.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sun.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/superscript.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/surprise.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/swatchbook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/swimmer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/swimming-pool.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/synagogue.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sync-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/sync.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/syringe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/table-tennis.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/table.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tablet-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tablet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tablets.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tachometer-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tags.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tape.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tasks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/taxi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/teeth-open.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/teeth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/temperature-high.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/temperature-low.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tenge.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/terminal.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/text-height.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/text-width.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/th-large.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/th-list.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/th.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/theater-masks.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thermometer-empty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thermometer-full.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thermometer-half.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thermometer-quarter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thermometer-three-quarters.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thermometer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thumbs-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thumbs-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/thumbtack.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/ticket-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/times-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/times.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tint-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tint.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tired.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/toggle-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/toggle-on.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/toilet-paper-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/toilet-paper.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/toilet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/toolbox.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tools.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tooth.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/torah.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/torii-gate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tractor.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trademark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/traffic-light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trailer.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/train.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/transgender-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/transgender.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trash-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trash-restore-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trash-restore.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tree.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/trophy.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/truck-loading.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/truck-monster.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/truck-moving.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/truck-pickup.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/truck.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tshirt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tty.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/tv.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/umbrella-beach.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/umbrella.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/underline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/undo-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/undo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/universal-access.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/university.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/unlink.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/unlock-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/unlock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/upload.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-alt-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-astronaut.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-circle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-clock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-cog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-friends.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-graduate.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-injured.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-md.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-minus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-ninja.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-nurse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-plus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-secret.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-shield.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-tag.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-tie.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user-times.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/user.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/users-cog.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/users-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/users.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/utensil-spoon.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/utensils.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vector-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/venus-double.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/venus-mars.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/venus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vest-patches.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vest.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vial.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vials.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/video-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/video.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vihara.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/virus-slash.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/virus.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/viruses.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/voicemail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/volleyball-ball.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/volume-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/volume-mute.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/volume-off.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/volume-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vote-yea.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/vr-cardboard.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/walking.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wallet.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/warehouse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/water.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wave-square.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/weight-hanging.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/weight.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wheelchair.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wifi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wind.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/window-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/window-maximize.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/window-minimize.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/window-restore.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wine-bottle.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wine-glass-alt.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wine-glass.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/won-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/x-ray.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/yen-sign.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/svgs/solid/yin-yang.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/jquery/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-brands-400.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-regular-400.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/webfonts/fa-solid-900.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="487">
+              <caret line="148" column="14" lean-forward="false" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="proses.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proses.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+              <folding>
+                <marker date="1607075874193" expanded="true" signature="500:617" ph="INSERT INTO `pendaftar`... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12537">
+              <caret line="642" column="58" lean-forward="false" selection-start-line="642" selection-start-column="57" selection-end-line="642" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>image</find>
+      <find>main</find>
+      <find>error</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/proses.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -21,6 +1822,7 @@
     <option name="width" value="976" />
     <option name="height" value="1038" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -38,11 +1840,30 @@
     <panes>
       <pane id="Scope" />
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="pmb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmb" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Geolocation" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pmb" />
+      <recent name="C:\xampp\htdocs\pmb\js" />
+      <recent name="C:\xampp\htdocs\pmb\css" />
+      <recent name="C:\xampp\htdocs\pmb\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -66,31 +1887,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607058531827</updated>
-      <workItem from="1607058533728" duration="103000" />
+      <workItem from="1607058533728" duration="18105000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103000" />
+    <option name="totallyTimeSpent" value="18105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20520833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32990867" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -104,5 +1925,72 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/bg-head-02.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/bg-head-01.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-837">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/header2020.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/projek1rev3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="5591" lean-forward="true" selection-start-line="2" selection-start-column="5591" selection-end-line="2" selection-end-column="5591" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proses.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+          <folding>
+            <marker date="1607075874193" expanded="true" signature="500:617" ph="INSERT INTO `pendaftar`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12537">
+          <caret line="642" column="58" lean-forward="false" selection-start-line="642" selection-start-column="57" selection-end-line="642" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="148" column="14" lean-forward="false" selection-start-line="148" selection-start-column="14" selection-end-line="148" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
