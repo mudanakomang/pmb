@@ -5,7 +5,7 @@ $database = "kuliahon_pmb";
 $username = "kuliahon_pmbroot";
 $password = "SN2j]e1ihAO]";
 
-$conn=mysqli_connect($servername,$username,$password,$database);
+$conn=mysqli_connect($servername.":/tmp/mysql.sock",$username,$password,$database);
 if (!$conn){
     die("Koneksi gagal: ".mysqli_connect_error());
 }
