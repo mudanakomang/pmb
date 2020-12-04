@@ -1,6 +1,6 @@
 <?php
 
-$servername = "pmb.stkipsuarbangli.ac.id";
+$servername = "localhost";
 $database = "kuliahon_pmb";
 $username = "kuliahon_pmbroot";
 $password = "SN2j]e1ihAO]";
