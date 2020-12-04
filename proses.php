@@ -21,10 +21,11 @@ $sekolah=$data['sekolah'];
 $alamat=$data['alamat'];
 $kip=isset($data['kip']) ? "Y":"N";
 $nomorkip=$data['nomorkip'];
+$prodi=$data['prodi'];
 
 
-$stmt = $conn->prepare("INSERT INTO `pendaftar` (`nama`,`nomorwa`, `email`, `sekolah_asal`,`alamat`,`kip`,`nomor_kip`) VALUES (?,?,?,?,?,?,?)");
-$stmt->bind_param('sssssss',$nama,$nowa,$email,$sekolah,$alamat,$kip,$nomorkip);
+$stmt = $conn->prepare("INSERT INTO `pendaftar` (`nama`,`nomorwa`, `email`,`prodi`,`sekolah_asal`,`alamat`,`kip`,`nomor_kip`) VALUES (?,?,?,?,?,?,?)");
+$stmt->bind_param('ssssssss',$nama,$nowa,$email,$prodi,$sekolah,$alamat,$kip,$nomorkip);
 
 $stmt->execute();
 $stmt->close();
@@ -35,6 +36,7 @@ $text.="dengan detail sebagai berikut:".PHP_EOL.PHP_EOL;
 $text.="*Nama:* ".$nama.PHP_EOL;
 $text.="*Nomor WhatsApp:* ".$nowa.PHP_EOL;
 $text.="*Email:* ".$email.PHP_EOL;
+$text.="*Program Studi:* ".$prodi.PHP_EOL;
 $text.="*Sekolah Asal:* ".$sekolah.PHP_EOL;
 $text.="*Alamat:* ".$alamat.PHP_EOL;
 

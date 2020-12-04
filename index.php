@@ -44,6 +44,15 @@
                                 <input type="email" name="email" id="email" placeholder="Email" required/>
                             </div>
                             <div class="form-group">
+                                <label for="prodi"><i class="fa fa-reorder"></i></label>
+                                <select name="prodi" id="prodi" class="form-control">
+                                    <option value="">Pilih Program Studi</option>
+                                    <option value="Pendidikan Bahasa dan Sastra Indonesia">Pendidikan Bahasa dan Sastra Indonesia</option>
+                                    <option value="Pendidikan Bahasa Inggris">Pendidikan Bahasa Inggris</option>
+                                    <option value="Pendidikan Guru Sekolah Dasar">Pendidikan Guru Sekolah Dasar</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
                                 <label for="sekolah"><i class="fa fa-building"></i></label>
                                 <input type="text" name="sekolah" id="sekolah" placeholder="Sekolah Asal" required/>
                             </div>
@@ -119,6 +128,7 @@
                 },
                 sekolah:"required",
                 alamat:"required",
+                prodi:"required",
             },
             messages:{
                 nama:"Nama harus diisi!",
@@ -131,7 +141,8 @@
                     email:"Email tidak valid!"
                 },
                 sekolah:"Sekolah asal harus diisi!",
-                alamat:"Alamat harus diisi!"
+                alamat:"Alamat harus diisi!",
+                prodi:"Harus memilih salah satu program studi!"
             }
         })
 
