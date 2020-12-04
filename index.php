@@ -128,7 +128,9 @@
                 },
                 sekolah:"required",
                 alamat:"required",
-                prodi:"required",
+                prodi:{
+                    required:true
+                }
             },
             messages:{
                 nama:"Nama harus diisi!",
@@ -142,7 +144,9 @@
                 },
                 sekolah:"Sekolah asal harus diisi!",
                 alamat:"Alamat harus diisi!",
-                prodi:"Harus memilih salah satu program studi!"
+                prodi:{
+                    required:"Harus memilih salah satu program studi!"
+                }
             }
         })
 
