@@ -139,12 +139,12 @@
     function formSubmit() {
         if(confirm("Anda akan dialihkan ke WhatsApp Admin STKIP Suar Bangli.")){
             $.ajax({
-                url:'https://pmb.itp.stkipsuarbangli.ac.id/proses.php',
+                url:'proses.php',
                 type:'POST',
                 data:{
                     formdata:$('#register-form').serialize()
                 },success:function (s) {
-                    console.log(s)
+                    location.href=s.url
                 }
             })
         }
