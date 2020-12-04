@@ -152,16 +152,20 @@
 
     })
     function formSubmit() {
-        if(confirm("Anda akan dialihkan ke WhatsApp Admin STKIP Suar Bangli.")){
-            $.ajax({
-                url:'proses.php',
-                type:'POST',
-                data:{
-                    formdata:$('#register-form').serialize()
-                },success:function (s) {
-                    location.href=s.url
-                }
-            })
+        if($('#register-form').valid()) {
+            if (confirm("Anda akan dialihkan ke WhatsApp Admin STKIP Suar Bangli.")) {
+                $.ajax({
+                    url: 'proses.php',
+                    type: 'POST',
+                    data: {
+                        formdata: $('#register-form').serialize()
+                    }, success: function (s) {
+                        location.href = s.url
+                    }
+                })
+            }
+        }else{
+            return false
         }
     }
     </script>
