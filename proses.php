@@ -13,7 +13,7 @@ if (!$conn){
 $formdata=$_POST['formdata'];
 parse_str($formdata,$data);
 
-
+var_dump($data);
 $nama=$data['nama'];
 $nowa=$data['nowa'];
 $email=$data['email'];
