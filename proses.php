@@ -13,7 +13,7 @@ if (!$conn){
 $formdata=$_POST['formdata'];
 parse_str($formdata,$data);
 
-var_dump($data);
+
 $nama=$data['nama'];
 $nowa=$data['nowa'];
 $email=$data['email'];
@@ -23,7 +23,7 @@ $kip=isset($data['kip']) ? "Y":"N";
 $nomorkip=$data['nomorkip'];
 $prodi=$data['prodi'];
 
-
+var_dump($prodi);
 $stmt = $conn->prepare("INSERT INTO `pendaftar` (`nama`,`nomorwa`, `email`,`prodi`,`sekolah_asal`,`alamat`,`kip`,`nomor_kip`) VALUES (?,?,?,?,?,?,?)");
 $stmt->bind_param('ssssssss',$nama,$nowa,$email,$prodi,$sekolah,$alamat,$kip,$nomorkip);
 
