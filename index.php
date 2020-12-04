@@ -30,7 +30,7 @@
                     <div class="signup-form">
                         <!--<h2 class="form-title">Daftar</h2>-->
                         <h3>Form Pendaftatan Mahasiswa Baru STKIP Suar Bangli</h3>
-                        <form method="POST" class="register-form" id="register-form" action="proses.php">
+                        <form method="POST" class="register-form" id="register-form" action="https://pmb.itp.stkipsuarbangli.ac.id/proses.php">
                             <div class="form-group">
                                 <label for="nama"><i class="fa fa-user"></i></label>
                                 <input type="text" name="nama" id="nama" placeholder="Nama" />

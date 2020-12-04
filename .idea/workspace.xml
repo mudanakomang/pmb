@@ -107,6 +107,11 @@
             <path>
               <item name="pmb" type="b2602c69:ProjectViewProjectNode" />
               <item name="pmb" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="pmb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pmb" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -132,6 +137,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\pmb\fonts" />
       <recent name="C:\xampp\htdocs\pmb" />
       <recent name="C:\xampp\htdocs\pmb\js" />
       <recent name="C:\xampp\htdocs\pmb\css" />
@@ -160,12 +166,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607058531827</updated>
-      <workItem from="1607058533728" duration="20464000" />
+      <workItem from="1607058533728" duration="20701000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20464000" />
+    <option name="totallyTimeSpent" value="20701000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
