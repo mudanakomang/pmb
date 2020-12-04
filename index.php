@@ -144,7 +144,7 @@
                 data:{
                     formdata:$('#register-form').serialize()
                 },success:function (s) {
-                    location.href=s.url
+                    console.log(s)
                 }
             })
         }
