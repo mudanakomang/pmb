@@ -42,7 +42,7 @@ if (!empty($nomorkip)) {
     $text .= "*KIP:*  " . $nomorkip . PHP_EOL;
 }
 $text=urlencode($text);
-$nomorhpadmin="6281238749696";
+$nomorhpadmin="6282210475670";
 $url="https://wa.me/".$nomorhpadmin.'?text='.$text;
 
 header('Content-Type: application/json');
