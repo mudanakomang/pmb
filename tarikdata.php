@@ -6,11 +6,12 @@
  * Time: 21:47
  */
 
-header("Content-type: text/csv");
-header("Content-Disposition: attachment; filename=Data PMB.csv");
+header("Content-type: application/vnd-ms-excel");
+
+// membuat nama file ekspor "export-to-excel.xls"
+header("Content-Disposition: attachment; filename=Data PMB.xls");
 header("Pragma: no-cache");
 header("Expires: 0");
-
 
 $servername = "plato-db.id.domainesia.com";
 $database = "kuliahon_pmb";
@@ -30,6 +31,11 @@ if (!$conn){
         <th>Nama</th>
         <th>Nomor WA</th>
         <th>Email</th>
+        <th>Prodi</th>
+        <th>Sekolah Asal</th>
+        <th>Alamat</th>
+        <th>KIP</th>
+        <th>Nomor KIP</th>
     </tr>
     <?php
     $sql = "SELECT * FROM `pendaftar`";
@@ -42,6 +48,11 @@ if (!$conn){
             <td><?php echo $d['nama']; ?></td>
             <td><?php echo $d['nomorwa']; ?></td>
             <td><?php echo $d['email']; ?></td>
+            <td><?php echo $d['prodi']; ?></td>
+            <td><?php echo $d['sekolah_asal']; ?></td>
+            <td><?php echo $d['alamat']; ?></td>
+            <td><?php echo $d['kip']; ?></td>
+            <td><?php echo $d['nomor_kip']; ?></td>
         </tr>
         <?php
     }
