@@ -35,7 +35,7 @@ if (!$conn){
     $sql = "SELECT * FROM `pendaftar`";
     $result = mysqli_query($conn, $sql);
     $no = 1;
-    while($d = mysqli_fetch_array($data)){
+    while($d = mysqli_fetch_array($result)){
         var_dump($d);
         ?>
         <tr>
