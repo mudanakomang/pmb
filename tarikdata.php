@@ -6,10 +6,10 @@
  * Time: 21:47
  */
 
-header("Content-type: application/vnd-ms-excel");
-
-// membuat nama file ekspor "export-to-excel.xls"
-header("Content-Disposition: attachment; filename=Data PMB.xls");
+header("Content-type: text/csv");
+header("Content-Disposition: attachment; filename=Data PMB.csv");
+header("Pragma: no-cache");
+header("Expires: 0");
 
 
 $servername = "plato-db.id.domainesia.com";
