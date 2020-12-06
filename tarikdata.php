@@ -24,37 +24,26 @@ if (!$conn){
 
 ?>
 
-<table>
+<table border="1">
     <tr>
-        <th>Nomor</th>
+        <th>No</th>
         <th>Nama</th>
         <th>Nomor WA</th>
         <th>Email</th>
-        <th>Prodi</th>
-        <th>Sekolah Asal</th>
-        <th>Alamat</th>
-        <th>KIP</th>
-        <th>Nomor KIP</th>
     </tr>
     <?php
-    $sql="select * from pendaftar";
-    $query = mysqli_query($sql);
-    $i=1;
-    while ($d=mysqli_fetch_array($query)){
+    $sql = "SELECT * FROM `pendaftar`";
+    $result = mysqli_query($conn, $sql);
+    $no = 1;
+    while($d = mysqli_fetch_array($data)){
         ?>
         <tr>
-            <td><?php echo $i++;?></td>
-            <td><?php echo $d['nama'];?></td>
-            <td><?php echo $d['nomorwa'];?></td>
-            <td><?php echo $d['email'];?></td>
-            <td><?php echo $d['prodi'];?></td>
-            <td><?php echo $d['sekolah_asal'];?></td>
-            <td><?php echo $d['alamat'];?></td>
-            <td><?php echo $d['kip'];?></td>
-            <td><?php echo $d['nomor_kip'];?></td>
+            <td><?php echo $no++; ?></td>
+            <td><?php echo $d['nama']; ?></td>
+            <td><?php echo $d['nomorwa']; ?></td>
+            <td><?php echo $d['email']; ?></td>
         </tr>
-    <?php
+        <?php
     }
     ?>
 </table>
-
