@@ -36,6 +36,7 @@ if (!$conn){
     $result = mysqli_query($conn, $sql);
     $no = 1;
     while($d = mysqli_fetch_array($data)){
+        var_dump($d);
         ?>
         <tr>
             <td><?php echo $no++; ?></td>
