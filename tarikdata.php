@@ -6,10 +6,10 @@
  * Time: 21:47
  */
 
-//header("Content-type: application/vnd-ms-excel");
-//
-//// membuat nama file ekspor "export-to-excel.xls"
-//header("Content-Disposition: attachment; filename=Data PMB.xls");
+header("Content-type: application/vnd-ms-excel");
+
+// membuat nama file ekspor "export-to-excel.xls"
+header("Content-Disposition: attachment; filename=Data PMB.xls");
 
 
 $servername = "plato-db.id.domainesia.com";
@@ -36,7 +36,6 @@ if (!$conn){
     $result = mysqli_query($conn, $sql);
     $no = 1;
     while($d = mysqli_fetch_array($result)){
-        var_dump($d);
         ?>
         <tr>
             <td><?php echo $no++; ?></td>
